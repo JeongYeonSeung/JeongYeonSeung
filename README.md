@@ -12,7 +12,7 @@
   <img
     src="https://render.gitanimals.org/lines/JeongYeonSeung?pet-id=646968305355314966"
     width="600"
-    height="120"
+    height="150"
   />
 </a>
   
