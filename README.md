@@ -8,13 +8,15 @@
 [![JeongYeonSeung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongYeonSeung)](https://github.com/JeongYeonSeung/github-readme-stats)
 
 
-<a href="https://github.com/devxb/gitanimals">
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JeongYeonSeung&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/JeongYeonSeung?pet-id=646968305355314966"
+    src="https://render.gitanimals.org/lines/JeongYeonSeung?pet-id=653068855603887574"
     width="600"
-    height="150"
+    height="120"
   />
 </a>
+  
   
   
 
